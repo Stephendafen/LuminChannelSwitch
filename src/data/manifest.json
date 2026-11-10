@@ -1,0 +1,1176 @@
+{
+  "build_id": 12450,
+  "version": "1.0.2",
+  "official": {
+    "FairGuardProtect.dll": {
+      "size": 8581808,
+      "sha256": "68b7a036a803486e2fcb53bbda19b52972083227a91519c5f0817f7adeb220f1"
+    },
+    "GameAssembly.dll": {
+      "size": 34778800,
+      "sha256": "20793c8e4c931540d98ce70491eafce10afbeba0c3e592e13fdab6a533cb9fc3"
+    },
+    "Lumin.exe": {
+      "size": 679600,
+      "sha256": "7b73b4106fb5e6e87d9addc3b2bd0d67ad937e1fe93b689e4270c0b2b9e544a9"
+    },
+    "Lumin_Data/Plugins/x86_64/CrashSight64.dll": {
+      "size": 5572272,
+      "sha256": "9d210a0c1f36ca132019da94e17381a6fc3e58ffe1496cbd21500c3e3525a635"
+    },
+    "Lumin_Data/Plugins/x86_64/DLSSUnityPlugin.dll": {
+      "size": 368816,
+      "sha256": "7e8f94f81ceeed3cd6dec66cd1ef50b4510855fb8fbb6a843fce1aa5d6345e40"
+    },
+    "Lumin_Data/Plugins/x86_64/FSR3UnityPlugin.dll": {
+      "size": 191152,
+      "sha256": "1edf8b034d38d0cf5088bf91e84751c790e2ef1f12ae607cdf5affebbcca175d"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/Vuplex WebView.vuplex": {
+      "size": 1472512,
+      "sha256": "aa26aae60dd3c05f560402dd68f5c08e960e37959bd434874ca93ca6ea58216f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_100_percent.pak": {
+      "size": 683496,
+      "sha256": "adebb2921cc84e02bbf9417a16ebe18d84938fd27475b517b36a0da9da505ac1"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_200_percent.pak": {
+      "size": 1069453,
+      "sha256": "a3cf8aa391aad9d995670099cda3ec390956cd6eb97ac90ecd1d259ba466486e"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_elf.dll": {
+      "size": 1403056,
+      "sha256": "5320a600d6a2c2eab0ecf5b54da77b8cff2d65814eb701ad09baf373898935a0"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/d3dcompiler_47.dll": {
+      "size": 4919984,
+      "sha256": "77a0bcb69ace814b757172ec926113690698981297a4876f838d90c4acc169bf"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/debug.log": {
+      "size": 1141,
+      "sha256": "fb09a248464b82ffc76903688ae36209d8d6621341df19af3b402fc9439e28f3"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/dxcompiler.dll": {
+      "size": 22039728,
+      "sha256": "bb89618336401e9e2c7ac4d0d9b4fbe8c5ccfa2fe17682d3f49bc51df340eb59"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/dxil.dll": {
+      "size": 1511600,
+      "sha256": "c0e8ce57158291c3a4910c508519cd26b9d0868dbc7650d7cb4cdd91d9850257"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/icudtl.dat": {
+      "size": 10468208,
+      "sha256": "9ae98c06cbb0ea43c5cd6b5725310c008c65e46072421a1118cb88e1de9a8b92"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/libEGL.dll": {
+      "size": 481456,
+      "sha256": "55b9f484c80451dcc3dfe88052fbb2cec745f075b61cc00f0f8fd04469f31d55"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/libGLESv2.dll": {
+      "size": 8053936,
+      "sha256": "0ee4d7058ab7279b78c4b4639ef5a297c2e49c4304cf0462a563d5fe2628b9cf"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/libcef.dll": {
+      "size": 214708912,
+      "sha256": "99420f88e944b9a5091bf089fb45f2af64aa1bee51d3d6378f897b6fd6595a29"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/af.pak": {
+      "size": 510377,
+      "sha256": "33fc7bdcaacce51b9f4b03c1e3ef8adc0079823338abbf90b1c0d77d5a9359ac"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/am.pak": {
+      "size": 824452,
+      "sha256": "234192741c88041ffa00594348a758b5691f0739302e7d49f32c00d24fc1f811"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ar.pak": {
+      "size": 907305,
+      "sha256": "b4a81101a160d44b23ecd3d943bdd3b9dca49a0cbf454c6a63ce22742439cb25"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/bg.pak": {
+      "size": 941603,
+      "sha256": "e634f9f2e8d757c0a9df8b623ab3e919ee9071e77f3e8160613ef2a5f52def52"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/bn.pak": {
+      "size": 1210775,
+      "sha256": "ad73fb2c712b77d36bc4da9b754a5681f8b46fa9a47826f3bbb7da05c16cf2ed"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ca.pak": {
+      "size": 581689,
+      "sha256": "a7b478088cc81054ad12dc1e83cc987e5678f217a80f59c229f0c5d15de4f2db"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/cs.pak": {
+      "size": 590124,
+      "sha256": "4d4231d1bf55775a7dc8267dc82691dec64fcdb6944012a1539d128482d321f0"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/da.pak": {
+      "size": 538436,
+      "sha256": "a636f58aa84b4770e47ba1eaf9772ae0cd55b320f2ed518b183a3a3e049aa5ab"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/de.pak": {
+      "size": 579106,
+      "sha256": "d8f954ddc051253dc60bbdf80f570474066117e732f7270069a835d9061eb4de"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/el.pak": {
+      "size": 1031467,
+      "sha256": "e0a018ddb05d9b2a6dbb5df434ad720530b911fa0f07405c339d56bba1251f4b"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/en-GB.pak": {
+      "size": 466144,
+      "sha256": "b41499051a0ca17415f993b4ca52f9a22615894fa67784009a7e0a5db71d9b00"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/en-US.pak": {
+      "size": 470453,
+      "sha256": "dd2c824c1b8365c730fb91ae90f90d0e1115f444d36fd90097b2544e24822205"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/es-419.pak": {
+      "size": 568025,
+      "sha256": "e640913e5f3de9b04c7cc129dfa5e38ae9e6612aadef3f7e3cc6c74218695f78"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/es.pak": {
+      "size": 566591,
+      "sha256": "cc70e7d625445d0a661f578c058034823cc9febaf3d772d005f9fc9dddb77b43"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/et.pak": {
+      "size": 516648,
+      "sha256": "140371a373a01a5325dd720c2c84e0c0ffc80542d376534c52da0fcefc23808b"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fa.pak": {
+      "size": 836846,
+      "sha256": "6c88cc1ab8672c3af4645f2aef0ff849c85dbe47fb0336d1bc30459104dbd0bb"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fi.pak": {
+      "size": 524728,
+      "sha256": "b9fa2e7acad85559d7d7d94493da366b1d30cc14a77943c3fca58a46e1283706"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fil.pak": {
+      "size": 592844,
+      "sha256": "12f52cb7b993f740d9cde556071498dfda2f24c6f2161ca6d0b18a766eb878a1"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fr.pak": {
+      "size": 613747,
+      "sha256": "32fb00c1ce1e70a1ef59f4a002fce30658513e217beab425d9fa9944a5ef8d81"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/gu.pak": {
+      "size": 1195769,
+      "sha256": "8acc825374cb1684e051c909eac6177390f60899cc6b3986122d72d35d74ef1c"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/he.pak": {
+      "size": 738658,
+      "sha256": "e8df70e5dd7b1636370548761352d3b7dfec770a1ff8aeea894fa932f21b009d"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hi.pak": {
+      "size": 1269985,
+      "sha256": "13daebda966abd972d4e700777b03ea118746dfda7677a31d38f6b96341ce185"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hr.pak": {
+      "size": 569978,
+      "sha256": "19dce0305da7f689b52d636b497c04b85e25cf19340f194eed19aad2297ae1fe"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hu.pak": {
+      "size": 614735,
+      "sha256": "432350409492d236e972a22b7e7f64b5a7af0e5ad3022af21779da0f454e58dd"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/id.pak": {
+      "size": 507574,
+      "sha256": "f26af6a64639945a643cbd8b9ce7fc6460578005d70a94a1f061ce68470f7754"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/it.pak": {
+      "size": 565510,
+      "sha256": "b4560053f74e5af8b5e51635c62f2c11db84bb17ee22aaaed11e20b260ac107f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ja.pak": {
+      "size": 685892,
+      "sha256": "0afa648a18361f919544ae7cf8ac2d5a21ec57344fc90fb108aa27dc94d6d970"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/kn.pak": {
+      "size": 1361308,
+      "sha256": "a6ded19395bdd60fe0b7c197b0aaab3d46262159eac8272aea031ff949fe6c7f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ko.pak": {
+      "size": 577028,
+      "sha256": "6d51dfab36002c6fa7b128764bfb9e2e55eccea245a6191c1ae71f8fbae3b2e8"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/lt.pak": {
+      "size": 618684,
+      "sha256": "a0dbde50c63478ef8e982f8b528e70f59ea52b90c1ab6ded5857298859c066d0"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/lv.pak": {
+      "size": 618032,
+      "sha256": "6011e949331322975c38a098291bf6fb3c72d0fc48c05edde0444a39a6f51369"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ml.pak": {
+      "size": 1415100,
+      "sha256": "3fe73d4099578cbcefff2f9a553ceef6f23207878dbbd434893933f4f6a9317e"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/mr.pak": {
+      "size": 1167063,
+      "sha256": "cb0494b4966a17228fb21f47483fc2d28e0647343a99545a2c779109fccfd5b9"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ms.pak": {
+      "size": 531700,
+      "sha256": "ef84f5ad67a55bc85867dfe96fe9846a51ac8a27fec13c63edb63592c5c5a909"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/nb.pak": {
+      "size": 515790,
+      "sha256": "a7995ef696c8b483d839a090f50619c998cecfcd7d17f79fd36656b23df69a24"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/nl.pak": {
+      "size": 533148,
+      "sha256": "1af21f7a94914ea525ae254d33f32b2df1f119e2ee8122a9e6e0137e331f5e9c"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pl.pak": {
+      "size": 595338,
+      "sha256": "2dc1d7b6d05dc155d0364fe7ddafe6734fa0c8c19513b09a949322e7ec27055d"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pt-BR.pak": {
+      "size": 558282,
+      "sha256": "8b02050de514d6ed8f16a1643dff2941eef6d3f0de20972a72bedf1957382b5f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pt-PT.pak": {
+      "size": 563059,
+      "sha256": "d25609961dc152a8d24bef44cd64e62e522bfad263f4efd789e91a2d7e21b95f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ro.pak": {
+      "size": 582168,
+      "sha256": "3544e2f25ae8a2e681420bbde05907710c701a9a77b489d7c6b40ff141f2446b"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ru.pak": {
+      "size": 954204,
+      "sha256": "6f40e288bf926e43490488c585abce6fcd07ee8e3ae6449381adbf6c4fc2dd21"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sk.pak": {
+      "size": 599140,
+      "sha256": "e0177ee8750bbebba893d6d71dde82c9f609f7ce722cb9c1129469e2c5b68088"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sl.pak": {
+      "size": 575405,
+      "sha256": "6cb6c2814765bfe36ef0960518b466a4db030b6c052d7a4c0afa6bc383163667"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sr.pak": {
+      "size": 884545,
+      "sha256": "e14490455d138c127ebb4b9e26a92c19137bb0ed44098554fe4b28cbb710f35b"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sv.pak": {
+      "size": 519263,
+      "sha256": "d867f719a1da8d821592d56f822a25e8b276b2d8db94fa55222cd370816eca96"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sw.pak": {
+      "size": 546478,
+      "sha256": "b8422470670442eb7c29b4e4adb27077c4d576fd003242bada50a1e5e9ac243f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ta.pak": {
+      "size": 1411027,
+      "sha256": "7518f9c3ce1bcf0dd3e63865378467701de9e50ba969dbe8151d2f1bf03eab7a"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/te.pak": {
+      "size": 1299920,
+      "sha256": "f0124e588b108482a074d89b66db5010bab86b65f8ddcf2ba2c1ff95d56ce641"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/th.pak": {
+      "size": 1092256,
+      "sha256": "0cacd0e262764f447658a2dbdb885198eb178e8679d7261fd6d9629ec8c08b5f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/tr.pak": {
+      "size": 558475,
+      "sha256": "62911c794ee1b89b41061043c8dbee9f0850b57ff92b96c0540c563c65d62871"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/uk.pak": {
+      "size": 951200,
+      "sha256": "6cf3a7f1abe821238799d823d0c46bede7fa5b987d59f676502f3bf7701bbfe8"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ur.pak": {
+      "size": 830717,
+      "sha256": "579e3b7623dc682060b14eb010d663403ee3c13bf71772f9edbf5c07d05677e1"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/vi.pak": {
+      "size": 660811,
+      "sha256": "0b2e2933860bc735a8ba7b7b5a3f8363adacae878f07d5b3a4bf8726706a565e"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/zh-CN.pak": {
+      "size": 477337,
+      "sha256": "339fc590569b686d710317f46aa22502b022659dc8090d69548ac44383494ab0"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/zh-TW.pak": {
+      "size": 474538,
+      "sha256": "a8b841eb21bbf2287bb5bdd636aa291db21cfe6b9e2fb039d82dc7638ecac8be"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/resources.pak": {
+      "size": 8470093,
+      "sha256": "8aa4a2089231bd8262e988b10d2cb0428a38fa3c6c28f90d00c4437e83cc6d3e"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/snapshot_blob.bin": {
+      "size": 314802,
+      "sha256": "93143e7f3925d372e3055c1ff9deb564400404c560d03c8e4d13fff067332f49"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/swiftshader/libEGL.dll": {
+      "size": 437424,
+      "sha256": "3007ad962b024283137d302794f4bd7e1d97e63fc186e4f71dde5501e88721ed"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/swiftshader/libGLESv2.dll": {
+      "size": 2736816,
+      "sha256": "0a8c5915bf1c5e8ec14e990d25ead28162b81d51392a23d6f25234e315b4a0fe"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/v8_context_snapshot.bin": {
+      "size": 668253,
+      "sha256": "5c338e3e42c376f230e9764cbd97e1b4befae13d82ebd04318b5e42c94ff278f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewWindows.dll": {
+      "size": 407216,
+      "sha256": "2679dc2a8ef2b5bb177a189aea8bc4d937734d45511ec2ba678e07096eed26df"
+    },
+    "Lumin_Data/Plugins/x86_64/XeSSRenderingPlugin.dll": {
+      "size": 269488,
+      "sha256": "02f16b9097fa9a2df8bac43b157d45d51d116baf59a4dd05114deb7945da1d99"
+    },
+    "Lumin_Data/Plugins/x86_64/amd_fidelityfx_loader_dx12.dll": {
+      "size": 27824,
+      "sha256": "1447b57450a12121092bd7aee10410a1d1d371f12206e01c092b5d4b4464d8b6"
+    },
+    "Lumin_Data/Plugins/x86_64/amd_fidelityfx_upscaler_dx12.dll": {
+      "size": 28763312,
+      "sha256": "4c075b4c3b76f3d56285ac30cadd3c183e70755a06072ebcdb86894e6fe1eebb"
+    },
+    "Lumin_Data/Plugins/x86_64/fmodstudio.dll": {
+      "size": 3265200,
+      "sha256": "271389169cd3062fe8dc07424256354b913ce13285e3c5f6fa8cfcb09956e4f1"
+    },
+    "Lumin_Data/Plugins/x86_64/lib_burst_generated.dll": {
+      "size": 853680,
+      "sha256": "1dbb54d30cd76b859b95bea0fc69f98442a12c93e8a89199cf61dd45265e621a"
+    },
+    "Lumin_Data/Plugins/x86_64/libxess.dll": {
+      "size": 77797040,
+      "sha256": "4789f799a4cd100f64b58ebec704e26e6f7e15b54f9cf075f973690275fd646b"
+    },
+    "Lumin_Data/Plugins/x86_64/libxess_dx11.dll": {
+      "size": 157360,
+      "sha256": "4d778e5ebcb199b82d160dccf76f442519fc2d8b288561f7f8209f6c4a12459b"
+    },
+    "Lumin_Data/Plugins/x86_64/nvngx_dlss.dll": {
+      "size": 58977904,
+      "sha256": "be6e434a94ca32499515eb62ca0e6c274526055d568d0426e4c652dcdfb6ee6e"
+    },
+    "Lumin_Data/Plugins/x86_64/rail_api64.dll": {
+      "size": 18143408,
+      "sha256": "21dbf57f9aa0fda0068355c0c6bad7b49ff4fecf74a45a5e8e56aa8ab92186a2"
+    },
+    "Lumin_Data/Plugins/x86_64/resonanceaudio.dll": {
+      "size": 829616,
+      "sha256": "31e689018da597eb887e1948ba2e25b04495c82bcbeb174110dbb2305b8d8a31"
+    },
+    "Lumin_Data/Plugins/x86_64/tapsdkcore.dll": {
+      "size": 3344048,
+      "sha256": "825e3450753952533b0fc3075f79244f2adb62e4fca9b521b4a1bced0b57bf48"
+    },
+    "Lumin_Data/Plugins/x86_64/taptap_api.dll": {
+      "size": 158896,
+      "sha256": "0419201446e7ae5efbe24623bc5e3c8dd8eac7ab273d27397ed18abb834aaa4a"
+    },
+    "Lumin_Data/Resources/unity default resources": {
+      "size": 1564240,
+      "sha256": "a11e3e24520676183b3750564b4d9f5a90e8f41fd3523cbfb0c49f3989453da2"
+    },
+    "Lumin_Data/RuntimeInitializeOnLoads.json": {
+      "size": 8257,
+      "sha256": "f418fa4cafbe8548a2f7ceb1ca82994eaa2c4860fad8908d49662c63d49de5dc"
+    },
+    "Lumin_Data/ScriptingAssemblies.json": {
+      "size": 6548,
+      "sha256": "b51d9cb8b9be98ad452323609066886ea83f45f28180bc0abe403a9a0ce8ccff"
+    },
+    "Lumin_Data/StreamingAssets/Crashsight_Enabled": {
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "Lumin_Data/StreamingAssets/app_config.json": {
+      "size": 522,
+      "sha256": "a7a27d2a205d315bca1bc46307aa6a31ba6b830b3a4fc6d21829b2274fd4667d"
+    },
+    "Lumin_Data/StreamingAssets/app_info": {
+      "size": 256,
+      "sha256": "76cb7eedc951315152db8f6c474875c39f8a797435a0c8d391dc29b8c4ca57c3"
+    },
+    "Lumin_Data/StreamingAssets/internal_version": {
+      "size": 25,
+      "sha256": "b8e224c9aee8385351629bf7963bd9db031663de87ff622682b25c2c347b9605"
+    },
+    "Lumin_Data/app.info": {
+      "size": 15,
+      "sha256": "10ca63d34ee1b338c75924281241733d5b2be201105ffd3c3ecdcae55136d721"
+    },
+    "Lumin_Data/boot.config": {
+      "size": 154,
+      "sha256": "9c8b56f53e84284d0f0466f1f02726a5361a23b4a4b7ec32380db4e94e013446"
+    },
+    "Lumin_Data/data.unity3d": {
+      "size": 156316949,
+      "sha256": "97235642ba48621dfbfe1f376cad4263b6a20ce3456e7d0c46470af694226e58"
+    },
+    "Lumin_Data/il2cpp_data/Metadata/global-metadata.dat": {
+      "size": 19081432,
+      "sha256": "4595c5c283ebe724cf6e99d812694831baa69e91127efa0d899d16bd699a0ce6"
+    },
+    "Lumin_Data/il2cpp_data/Resources/System.Data.dll-resources.dat": {
+      "size": 93718,
+      "sha256": "98a7950ec6de3242c2e190dfa630188dfa32511a125542b94baa952d1c757d49"
+    },
+    "Lumin_Data/il2cpp_data/Resources/System.Drawing.dll-resources.dat": {
+      "size": 25453,
+      "sha256": "7c33aa707bc3fdc83991b81a97d6fc622b140762a767300f08f616c2c0a91255"
+    },
+    "Lumin_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat": {
+      "size": 337563,
+      "sha256": "c5baa176a5b72cd545266340e42102d393a5e43d38c95796bc828918bb95277f"
+    },
+    "Lumin_Data/resources.resource": {
+      "size": 96193280,
+      "sha256": "c5a1b41c694fefc1c07603f10aae848ff013781b6094a45bb193d5ffc3093d9f"
+    },
+    "UnityCrashHandler64.exe": {
+      "size": 1187504,
+      "sha256": "2efbd903768412c9dc71236204fce4fa96e352582f1a5c97969dcbfd96eaab09"
+    },
+    "UnityPlayer.dll": {
+      "size": 19169968,
+      "sha256": "ee4472a528ac488076b70d79377f841e302090766cb75eac2c2427733d4b50cb"
+    },
+    "baselib.dll": {
+      "size": 422064,
+      "sha256": "495f4a8ee2ae0fb15d70dccc67346b394f334bfc5bee93dd112de77c691cb164"
+    }
+  },
+  "bilibili": {
+    ".DS_Store": {
+      "size": 10244,
+      "sha256": "737a49bbf1b207494cc7aec2db52e576f34f44aad994be44e3a2f0b4fb125e1c"
+    },
+    "BLPlatform64/.DS_Store": {
+      "size": 6148,
+      "sha256": "bb5fbfb04a376f1f92b488b5420c28715788a5863ead835e923a5d37bb106f13"
+    },
+    "BLPlatform64/BLWebbrowser/.DS_Store": {
+      "size": 6148,
+      "sha256": "f808cb118c815e76af71f648462eddeea97d241ff35da2641f5376a9e37a163a"
+    },
+    "BLPlatform64/BLWebbrowser/cef.pak": {
+      "size": 2133001,
+      "sha256": "f7c12b789cd28ad0879b848cc31cf91afcf4fb6cc27d6f26cb0311a3782cfecc"
+    },
+    "BLPlatform64/BLWebbrowser/cef_100_percent.pak": {
+      "size": 654037,
+      "sha256": "2625e4c9319c4d1fbe08a32aa47f2a280485fb5bf932d5783b24b8e9c2e9837a"
+    },
+    "BLPlatform64/BLWebbrowser/cef_200_percent.pak": {
+      "size": 808292,
+      "sha256": "d712aa641e2b72b9f02b05f473aeba45b288c6287b2f515e4be6eeb039eca568"
+    },
+    "BLPlatform64/BLWebbrowser/cef_extensions.pak": {
+      "size": 1772827,
+      "sha256": "9c6a3f971aa395bbccfd7e8f62291c5052ac01099f5e4c701743f7e48b649603"
+    },
+    "BLPlatform64/BLWebbrowser/chrome_elf.dll": {
+      "size": 981680,
+      "sha256": "e9dc8e939410b94dc84c72ed9429e9cfb2ea19c090e7be00174eecb847432637"
+    },
+    "BLPlatform64/BLWebbrowser/d3dcompiler_47.dll": {
+      "size": 4343472,
+      "sha256": "09c161deb545cb43d1364f34e27b978453548685c3b837626d27ca6f7f032e30"
+    },
+    "BLPlatform64/BLWebbrowser/devtools_resources.pak": {
+      "size": 7015266,
+      "sha256": "d922d6086dfc479097c148df52251577e5539f5a3cb5fbd6d74320db5043110c"
+    },
+    "BLPlatform64/BLWebbrowser/icudtl.dat": {
+      "size": 10505952,
+      "sha256": "594637e10b8f5c97157413528f0cbf5bc65b4ab9e79f5fa34fe268092655ec57"
+    },
+    "BLPlatform64/BLWebbrowser/libEGL.dll": {
+      "size": 387760,
+      "sha256": "c90d02eb188d3bd8f305e6932ec1112a346bf8dd7587e08bfdd159412ae3d4b7"
+    },
+    "BLPlatform64/BLWebbrowser/libGLESv2.dll": {
+      "size": 7959216,
+      "sha256": "4b970248bc8cee9697c3a42856f0db02e7f9d704cc280df98c6995beedb54f36"
+    },
+    "BLPlatform64/BLWebbrowser/libcef.dll": {
+      "size": 118139056,
+      "sha256": "8d0087d8642a3d85962e0097d9d453d1de7d2717ed7d3554e3a1edb71684a20e"
+    },
+    "BLPlatform64/BLWebbrowser/locales/am.pak": {
+      "size": 352926,
+      "sha256": "5bd72584cca4271afd6961b137c256f909c69b8cbaa20ee3cb0f56e0a2df8729"
+    },
+    "BLPlatform64/BLWebbrowser/locales/ar.pak": {
+      "size": 355088,
+      "sha256": "c18e55d8fb846fb9f31c63d81124335698c42e17574609b628cf92bf43571c21"
+    },
+    "BLPlatform64/BLWebbrowser/locales/bg.pak": {
+      "size": 401521,
+      "sha256": "70dae9b5b2f692ae99f698da6822388996bda6e5b21dbb3626561c514b8d44e6"
+    },
+    "BLPlatform64/BLWebbrowser/locales/bn.pak": {
+      "size": 516903,
+      "sha256": "73ef727320c98843496f7d3e7bb91a98f180270d7f612b45cd60a089cdd0640f"
+    },
+    "BLPlatform64/BLWebbrowser/locales/ca.pak": {
+      "size": 250093,
+      "sha256": "d4ad5cdba6d19d490a208ff80a40aabceb7b3460f5567d4aa881b418213cd060"
+    },
+    "BLPlatform64/BLWebbrowser/locales/cs.pak": {
+      "size": 254040,
+      "sha256": "f8294c4a1886088af715f6c62e83aad34b09028068f2f406398fbcddbaca0bcb"
+    },
+    "BLPlatform64/BLWebbrowser/locales/da.pak": {
+      "size": 228312,
+      "sha256": "59134bbea624084d253e7935bca2e66b6e49610ce77d122831d0518bef4335fa"
+    },
+    "BLPlatform64/BLWebbrowser/locales/de.pak": {
+      "size": 248889,
+      "sha256": "f91d72c69bc74be69193dcf025962125726cc2d46c9f3a145657e68d99e2cdcd"
+    },
+    "BLPlatform64/BLWebbrowser/locales/el.pak": {
+      "size": 442205,
+      "sha256": "c49c6b55a03e03d69cb1637d275a9eb578765529a99a2f02e876b7edc8b8243b"
+    },
+    "BLPlatform64/BLWebbrowser/locales/en-GB.pak": {
+      "size": 204836,
+      "sha256": "bd87027b0e25f4692830309d2af5064bf651727ffefa2645b101ccebdb0e5797"
+    },
+    "BLPlatform64/BLWebbrowser/locales/en-US.pak": {
+      "size": 206531,
+      "sha256": "a4a1b7c72a6cf829e9f023a8673ceff385931e22fc5c23c361d8f43448b95ebc"
+    },
+    "BLPlatform64/BLWebbrowser/locales/es-419.pak": {
+      "size": 245809,
+      "sha256": "7394e19a7511d3a73a253d15e4eb007c4f156d346635fa4455b02f1e3c966cc1"
+    },
+    "BLPlatform64/BLWebbrowser/locales/es.pak": {
+      "size": 249919,
+      "sha256": "151cd836683f80e780a5a43bae8a95e2ef4088eaa99c968b114e83a0ddd8edcf"
+    },
+    "BLPlatform64/BLWebbrowser/locales/et.pak": {
+      "size": 222610,
+      "sha256": "9a4c6ee52e37582f0e770a089e0502ee36d4317f71cae4cdcee29c06c53b7946"
+    },
+    "BLPlatform64/BLWebbrowser/locales/fa.pak": {
+      "size": 353040,
+      "sha256": "2dca032314090fe1e8b45c5f19379b50f8bfc1ef250dfe2856d2c32b9a94f210"
+    },
+    "BLPlatform64/BLWebbrowser/locales/fi.pak": {
+      "size": 229769,
+      "sha256": "c4990656698b0b2d2982e7f263062dcf325ac8485a424c2188d9ca8cc2bcb7c9"
+    },
+    "BLPlatform64/BLWebbrowser/locales/fil.pak": {
+      "size": 252933,
+      "sha256": "711dc6748ea64ea1190c7c25032fd124a1edd1819990e0cd0cfbb234fbd15568"
+    },
+    "BLPlatform64/BLWebbrowser/locales/fr.pak": {
+      "size": 267633,
+      "sha256": "9e4541a4c71ddd3b39956407614d3883b96932d1e666c89931e32ddff57ad905"
+    },
+    "BLPlatform64/BLWebbrowser/locales/gu.pak": {
+      "size": 497075,
+      "sha256": "f4dec19ba7577897675e34ef6729da814507bd7d10f59b0468fde66253671039"
+    },
+    "BLPlatform64/BLWebbrowser/locales/he.pak": {
+      "size": 301333,
+      "sha256": "0a9c01573c099244966f1ccf9e1b6c0b97f9d7928b6fc7edd81928a3e11ca66e"
+    },
+    "BLPlatform64/BLWebbrowser/locales/hi.pak": {
+      "size": 510101,
+      "sha256": "7fb85ff3934101af4e5a6ed94937088175375f0180a96f6194a776e8319dc53f"
+    },
+    "BLPlatform64/BLWebbrowser/locales/hr.pak": {
+      "size": 241834,
+      "sha256": "532f894c38d05ddb771938b944e8c9b058af57a3fad957072b114d8f7863747c"
+    },
+    "BLPlatform64/BLWebbrowser/locales/hu.pak": {
+      "size": 263428,
+      "sha256": "1fe0100f6f5ff44000673db31a96872820ad30a4b85260c399fc5c97d96659e9"
+    },
+    "BLPlatform64/BLWebbrowser/locales/id.pak": {
+      "size": 221326,
+      "sha256": "b3844d5f9d6330c541cf1dcb41ea79463c3a37661e7a753b9534074b2f82f543"
+    },
+    "BLPlatform64/BLWebbrowser/locales/it.pak": {
+      "size": 241201,
+      "sha256": "2b8996b55ef50065adc54f1a331d13fc9b282ef06da83b488ae45693b7b7f5d3"
+    },
+    "BLPlatform64/BLWebbrowser/locales/ja.pak": {
+      "size": 299857,
+      "sha256": "338f63438d6587359a9d798756be97035985964b6128bc5d490c4090eb30096b"
+    },
+    "BLPlatform64/BLWebbrowser/locales/kn.pak": {
+      "size": 578424,
+      "sha256": "e325df8b2987d6d5b205b2d0e38025d004fca46660c43f11dbd9b833e778704b"
+    },
+    "BLPlatform64/BLWebbrowser/locales/ko.pak": {
+      "size": 252196,
+      "sha256": "3715074338753169a7d0b824aa68a96c01a7a93804a5262ebe52170cc1e33847"
+    },
+    "BLPlatform64/BLWebbrowser/locales/lt.pak": {
+      "size": 258878,
+      "sha256": "1311af18d92edc293ebc0de8e734aafe064a9c88b2503aa18e49101e686e0969"
+    },
+    "BLPlatform64/BLWebbrowser/locales/lv.pak": {
+      "size": 257465,
+      "sha256": "140b4455ca56d5afdf8dfb3c1f27bf45d3eff10b4831398c388c2f99ad331adc"
+    },
+    "BLPlatform64/BLWebbrowser/locales/ml.pak": {
+      "size": 617634,
+      "sha256": "60c7dc39e9a8db10d1ded18c6bbfc64b324e075b639e2075b3d7f0038b45bdb7"
+    },
+    "BLPlatform64/BLWebbrowser/locales/mr.pak": {
+      "size": 492853,
+      "sha256": "acd92201a92a8a19dfff2987eed89fd67d6aac29c5be17477e2061dd60bd5232"
+    },
+    "BLPlatform64/BLWebbrowser/locales/ms.pak": {
+      "size": 229260,
+      "sha256": "d03a99f763eb97aa84fe00912f6293f1c23b7eb436972b182822e9981990f703"
+    },
+    "BLPlatform64/BLWebbrowser/locales/nb.pak": {
+      "size": 225090,
+      "sha256": "990e7777f4c705ffcacc78ea75eb98301b53e4e82835a65123a01530a070ee08"
+    },
+    "BLPlatform64/BLWebbrowser/locales/nl.pak": {
+      "size": 235024,
+      "sha256": "0e232b618a6f4d14fd0170e7958dbf3251b23df331c77a66ef1af7981fb34277"
+    },
+    "BLPlatform64/BLWebbrowser/locales/pl.pak": {
+      "size": 251100,
+      "sha256": "66f6dafa265d2c84751a8331e61baf0b2d00b30a7fa3a19933865c9f70b9e7b8"
+    },
+    "BLPlatform64/BLWebbrowser/locales/pt-BR.pak": {
+      "size": 242019,
+      "sha256": "aec14236b11777161e7b6d66ca91a8112b2dc8770a759eaaf94af686754ee65e"
+    },
+    "BLPlatform64/BLWebbrowser/locales/pt-PT.pak": {
+      "size": 245314,
+      "sha256": "354c5f58e330996bba13f8aa66fcae4d9118f073b48cf4dd6b04935284f81530"
+    },
+    "BLPlatform64/BLWebbrowser/locales/ro.pak": {
+      "size": 250362,
+      "sha256": "f2916bcc0131219734bfb43581821e29d1bbe05512e9286e9ed25983fe35b859"
+    },
+    "BLPlatform64/BLWebbrowser/locales/ru.pak": {
+      "size": 392556,
+      "sha256": "ff38a84652ff0373be225bb85c51b49f770f7010ab143ec3f1cc7e9823350a1c"
+    },
+    "BLPlatform64/BLWebbrowser/locales/sk.pak": {
+      "size": 257057,
+      "sha256": "c95cffccc91aff323596754b4ced2bccab322836ca8ceb820fd58fd3fdf7a6d8"
+    },
+    "BLPlatform64/BLWebbrowser/locales/sl.pak": {
+      "size": 243557,
+      "sha256": "206a4f5434e766320fce443ea76ac46f61df2a84bbee93a42de352fa33689ead"
+    },
+    "BLPlatform64/BLWebbrowser/locales/sr.pak": {
+      "size": 377367,
+      "sha256": "52f4550ee69a83e5ebae7fbe2d5725ebdc4139a486f5858bf72414aaddd156f2"
+    },
+    "BLPlatform64/BLWebbrowser/locales/sv.pak": {
+      "size": 227131,
+      "sha256": "b635e61b53a4634011c79cad0e153750e4068c2e1a99b693634ba5e7330f70ef"
+    },
+    "BLPlatform64/BLWebbrowser/locales/sw.pak": {
+      "size": 232318,
+      "sha256": "c5291fe71675aa10cf9cc8086fd1c4dcb7beb97556f77767eaec4118973cd290"
+    },
+    "BLPlatform64/BLWebbrowser/locales/ta.pak": {
+      "size": 587585,
+      "sha256": "f1b3d8a864bb143d08802ea190a311e6800da353cc4109a53a979eda92766c2e"
+    },
+    "BLPlatform64/BLWebbrowser/locales/te.pak": {
+      "size": 555475,
+      "sha256": "ff4610e0f4eb562feef2205bbe99686d91149b0315aa1dfaed4adbe00bbbdf98"
+    },
+    "BLPlatform64/BLWebbrowser/locales/th.pak": {
+      "size": 471760,
+      "sha256": "5c3fd0729115da93a2b548bfeedfce1e97bbe63abd83e82ce9139115e628e966"
+    },
+    "BLPlatform64/BLWebbrowser/locales/tr.pak": {
+      "size": 241433,
+      "sha256": "2a3ba2386f53c3aace4b04d3e65c41f0be6beaefadb7560e9928a0bf00a6dd91"
+    },
+    "BLPlatform64/BLWebbrowser/locales/uk.pak": {
+      "size": 394688,
+      "sha256": "0d640b4678ea0a491cb97250c3c5f31376f117e192406edbcde01812a9053d57"
+    },
+    "BLPlatform64/BLWebbrowser/locales/vi.pak": {
+      "size": 279590,
+      "sha256": "58349c690036067c5afeb5a1b534ed64bbaabe21726a687d4e4bdffd85e18143"
+    },
+    "BLPlatform64/BLWebbrowser/locales/zh-CN.pak": {
+      "size": 208989,
+      "sha256": "25747d79be46ee8759cd806b4a5b1f6992291867156c055b1d88f5485fc702f4"
+    },
+    "BLPlatform64/BLWebbrowser/locales/zh-TW.pak": {
+      "size": 209140,
+      "sha256": "5dd354ff08d890eef5174956f564adcd8517b0209b504ed9c636f3737df62f0c"
+    },
+    "BLPlatform64/BLWebbrowser/snapshot_blob.bin": {
+      "size": 240472,
+      "sha256": "007d065c8b317f2a0c686899b5be75fc68d6c3ba7d1c47a86126a7d6cd257d81"
+    },
+    "BLPlatform64/BLWebbrowser/swiftshader/libEGL.dll": {
+      "size": 411824,
+      "sha256": "e40c0912ef8ebda744ee738712c364819afef66696a3c94f8864aa20f35355f4"
+    },
+    "BLPlatform64/BLWebbrowser/swiftshader/libGLESv2.dll": {
+      "size": 3782320,
+      "sha256": "c74afc64df67f5c6bfe073a0532bb024ac56f2a6929700e5738a59507193677b"
+    },
+    "BLPlatform64/BLWebbrowser/v8_context_snapshot.bin": {
+      "size": 559000,
+      "sha256": "1e9b99985e53b10ef4ef0f01264117b8d7c3e0e19e65e1670326445562d7ff24"
+    },
+    "BLPlatform64/PCGamePlatform.exe": {
+      "size": 7314096,
+      "sha256": "e4ccab8b7b394f64c73b5343a3b4faf98361a523375eb1b789cbc65b85806a7c"
+    },
+    "BLPlatform64/game_security_protection.exe": {
+      "size": 5631152,
+      "sha256": "cc966d9326cf4cb405cd51c5ae4d91ca1ac775d926c7039cef297fce807bc69d"
+    },
+    "FairGuardProtect.dll": {
+      "size": 8581808,
+      "sha256": "dbda3e123775956704fcaca5d25a293e593c2e659f2b9858efa05b47a6ad1c68"
+    },
+    "GameAssembly.dll": {
+      "size": 35796656,
+      "sha256": "d2caf33e13b91e0a218fd29342122143655526e51092e550c2414c2d035a8018"
+    },
+    "Lumin.exe": {
+      "size": 679600,
+      "sha256": "469a215c5c09fe98fe5b6e0560ac7ab5a120b037385cacd5eeb074da81e6fd5a"
+    },
+    "Lumin_Data/Plugins/x86_64/CrashSight64.dll": {
+      "size": 5572272,
+      "sha256": "68e715a3b66e4f6e92c620676c9719c09fd6ade185170ac443606371348064a8"
+    },
+    "Lumin_Data/Plugins/x86_64/DLSSUnityPlugin.dll": {
+      "size": 368816,
+      "sha256": "9389bf38076b4083c678f857f3c2b0a0db99e9a3bb6110aacc1905fd7d6e36f3"
+    },
+    "Lumin_Data/Plugins/x86_64/FSR3UnityPlugin.dll": {
+      "size": 191152,
+      "sha256": "4fb1abace39d25d2615145768119bedbade491f7b30eb61cb79b35ad05313a89"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/Vuplex WebView.vuplex": {
+      "size": 1472512,
+      "sha256": "aa26aae60dd3c05f560402dd68f5c08e960e37959bd434874ca93ca6ea58216f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_100_percent.pak": {
+      "size": 683496,
+      "sha256": "adebb2921cc84e02bbf9417a16ebe18d84938fd27475b517b36a0da9da505ac1"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_200_percent.pak": {
+      "size": 1069453,
+      "sha256": "a3cf8aa391aad9d995670099cda3ec390956cd6eb97ac90ecd1d259ba466486e"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/chrome_elf.dll": {
+      "size": 1403056,
+      "sha256": "f24b78b426e60d41c2123c74aadb55c0db8aa94149c44540a67b018cb6a766ce"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/d3dcompiler_47.dll": {
+      "size": 4919984,
+      "sha256": "caa5d2736f2f1601b5ec54d38ed8f4635622802873153671383caedd1d4ec39c"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/debug.log": {
+      "size": 1141,
+      "sha256": "fb09a248464b82ffc76903688ae36209d8d6621341df19af3b402fc9439e28f3"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/dxcompiler.dll": {
+      "size": 22039728,
+      "sha256": "beeb5d6b0de0b9d4aa9bbd828353c0290e46540365509c92e11d137eff11a7c1"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/dxil.dll": {
+      "size": 1511600,
+      "sha256": "f0663faa943cb8141f669c30788fe459ed944a58a597612a2561ce37c7a8ce90"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/icudtl.dat": {
+      "size": 10468208,
+      "sha256": "9ae98c06cbb0ea43c5cd6b5725310c008c65e46072421a1118cb88e1de9a8b92"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/libEGL.dll": {
+      "size": 481456,
+      "sha256": "0313e7a7973ad773d939322c9aabe2b8fbffa6fe67246914569f43c89971c9ee"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/libGLESv2.dll": {
+      "size": 8053936,
+      "sha256": "cb85cd390ae32cb8640b1b365d5fd75d18b7a4a829372958508d6fec8c552172"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/libcef.dll": {
+      "size": 214708912,
+      "sha256": "141432bd0b69b518cf4dd73c6eac242234d31637eb0b7e561a51b11e3adac1f5"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/af.pak": {
+      "size": 510377,
+      "sha256": "33fc7bdcaacce51b9f4b03c1e3ef8adc0079823338abbf90b1c0d77d5a9359ac"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/am.pak": {
+      "size": 824452,
+      "sha256": "234192741c88041ffa00594348a758b5691f0739302e7d49f32c00d24fc1f811"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ar.pak": {
+      "size": 907305,
+      "sha256": "b4a81101a160d44b23ecd3d943bdd3b9dca49a0cbf454c6a63ce22742439cb25"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/bg.pak": {
+      "size": 941603,
+      "sha256": "e634f9f2e8d757c0a9df8b623ab3e919ee9071e77f3e8160613ef2a5f52def52"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/bn.pak": {
+      "size": 1210775,
+      "sha256": "ad73fb2c712b77d36bc4da9b754a5681f8b46fa9a47826f3bbb7da05c16cf2ed"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ca.pak": {
+      "size": 581689,
+      "sha256": "a7b478088cc81054ad12dc1e83cc987e5678f217a80f59c229f0c5d15de4f2db"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/cs.pak": {
+      "size": 590124,
+      "sha256": "4d4231d1bf55775a7dc8267dc82691dec64fcdb6944012a1539d128482d321f0"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/da.pak": {
+      "size": 538436,
+      "sha256": "a636f58aa84b4770e47ba1eaf9772ae0cd55b320f2ed518b183a3a3e049aa5ab"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/de.pak": {
+      "size": 579106,
+      "sha256": "d8f954ddc051253dc60bbdf80f570474066117e732f7270069a835d9061eb4de"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/el.pak": {
+      "size": 1031467,
+      "sha256": "e0a018ddb05d9b2a6dbb5df434ad720530b911fa0f07405c339d56bba1251f4b"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/en-GB.pak": {
+      "size": 466144,
+      "sha256": "b41499051a0ca17415f993b4ca52f9a22615894fa67784009a7e0a5db71d9b00"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/en-US.pak": {
+      "size": 470453,
+      "sha256": "dd2c824c1b8365c730fb91ae90f90d0e1115f444d36fd90097b2544e24822205"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/es-419.pak": {
+      "size": 568025,
+      "sha256": "e640913e5f3de9b04c7cc129dfa5e38ae9e6612aadef3f7e3cc6c74218695f78"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/es.pak": {
+      "size": 566591,
+      "sha256": "cc70e7d625445d0a661f578c058034823cc9febaf3d772d005f9fc9dddb77b43"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/et.pak": {
+      "size": 516648,
+      "sha256": "140371a373a01a5325dd720c2c84e0c0ffc80542d376534c52da0fcefc23808b"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fa.pak": {
+      "size": 836846,
+      "sha256": "6c88cc1ab8672c3af4645f2aef0ff849c85dbe47fb0336d1bc30459104dbd0bb"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fi.pak": {
+      "size": 524728,
+      "sha256": "b9fa2e7acad85559d7d7d94493da366b1d30cc14a77943c3fca58a46e1283706"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fil.pak": {
+      "size": 592844,
+      "sha256": "12f52cb7b993f740d9cde556071498dfda2f24c6f2161ca6d0b18a766eb878a1"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/fr.pak": {
+      "size": 613747,
+      "sha256": "32fb00c1ce1e70a1ef59f4a002fce30658513e217beab425d9fa9944a5ef8d81"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/gu.pak": {
+      "size": 1195769,
+      "sha256": "8acc825374cb1684e051c909eac6177390f60899cc6b3986122d72d35d74ef1c"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/he.pak": {
+      "size": 738658,
+      "sha256": "e8df70e5dd7b1636370548761352d3b7dfec770a1ff8aeea894fa932f21b009d"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hi.pak": {
+      "size": 1269985,
+      "sha256": "13daebda966abd972d4e700777b03ea118746dfda7677a31d38f6b96341ce185"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hr.pak": {
+      "size": 569978,
+      "sha256": "19dce0305da7f689b52d636b497c04b85e25cf19340f194eed19aad2297ae1fe"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/hu.pak": {
+      "size": 614735,
+      "sha256": "432350409492d236e972a22b7e7f64b5a7af0e5ad3022af21779da0f454e58dd"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/id.pak": {
+      "size": 507574,
+      "sha256": "f26af6a64639945a643cbd8b9ce7fc6460578005d70a94a1f061ce68470f7754"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/it.pak": {
+      "size": 565510,
+      "sha256": "b4560053f74e5af8b5e51635c62f2c11db84bb17ee22aaaed11e20b260ac107f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ja.pak": {
+      "size": 685892,
+      "sha256": "0afa648a18361f919544ae7cf8ac2d5a21ec57344fc90fb108aa27dc94d6d970"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/kn.pak": {
+      "size": 1361308,
+      "sha256": "a6ded19395bdd60fe0b7c197b0aaab3d46262159eac8272aea031ff949fe6c7f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ko.pak": {
+      "size": 577028,
+      "sha256": "6d51dfab36002c6fa7b128764bfb9e2e55eccea245a6191c1ae71f8fbae3b2e8"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/lt.pak": {
+      "size": 618684,
+      "sha256": "a0dbde50c63478ef8e982f8b528e70f59ea52b90c1ab6ded5857298859c066d0"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/lv.pak": {
+      "size": 618032,
+      "sha256": "6011e949331322975c38a098291bf6fb3c72d0fc48c05edde0444a39a6f51369"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ml.pak": {
+      "size": 1415100,
+      "sha256": "3fe73d4099578cbcefff2f9a553ceef6f23207878dbbd434893933f4f6a9317e"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/mr.pak": {
+      "size": 1167063,
+      "sha256": "cb0494b4966a17228fb21f47483fc2d28e0647343a99545a2c779109fccfd5b9"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ms.pak": {
+      "size": 531700,
+      "sha256": "ef84f5ad67a55bc85867dfe96fe9846a51ac8a27fec13c63edb63592c5c5a909"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/nb.pak": {
+      "size": 515790,
+      "sha256": "a7995ef696c8b483d839a090f50619c998cecfcd7d17f79fd36656b23df69a24"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/nl.pak": {
+      "size": 533148,
+      "sha256": "1af21f7a94914ea525ae254d33f32b2df1f119e2ee8122a9e6e0137e331f5e9c"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pl.pak": {
+      "size": 595338,
+      "sha256": "2dc1d7b6d05dc155d0364fe7ddafe6734fa0c8c19513b09a949322e7ec27055d"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pt-BR.pak": {
+      "size": 558282,
+      "sha256": "8b02050de514d6ed8f16a1643dff2941eef6d3f0de20972a72bedf1957382b5f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/pt-PT.pak": {
+      "size": 563059,
+      "sha256": "d25609961dc152a8d24bef44cd64e62e522bfad263f4efd789e91a2d7e21b95f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ro.pak": {
+      "size": 582168,
+      "sha256": "3544e2f25ae8a2e681420bbde05907710c701a9a77b489d7c6b40ff141f2446b"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ru.pak": {
+      "size": 954204,
+      "sha256": "6f40e288bf926e43490488c585abce6fcd07ee8e3ae6449381adbf6c4fc2dd21"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sk.pak": {
+      "size": 599140,
+      "sha256": "e0177ee8750bbebba893d6d71dde82c9f609f7ce722cb9c1129469e2c5b68088"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sl.pak": {
+      "size": 575405,
+      "sha256": "6cb6c2814765bfe36ef0960518b466a4db030b6c052d7a4c0afa6bc383163667"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sr.pak": {
+      "size": 884545,
+      "sha256": "e14490455d138c127ebb4b9e26a92c19137bb0ed44098554fe4b28cbb710f35b"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sv.pak": {
+      "size": 519263,
+      "sha256": "d867f719a1da8d821592d56f822a25e8b276b2d8db94fa55222cd370816eca96"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/sw.pak": {
+      "size": 546478,
+      "sha256": "b8422470670442eb7c29b4e4adb27077c4d576fd003242bada50a1e5e9ac243f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ta.pak": {
+      "size": 1411027,
+      "sha256": "7518f9c3ce1bcf0dd3e63865378467701de9e50ba969dbe8151d2f1bf03eab7a"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/te.pak": {
+      "size": 1299920,
+      "sha256": "f0124e588b108482a074d89b66db5010bab86b65f8ddcf2ba2c1ff95d56ce641"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/th.pak": {
+      "size": 1092256,
+      "sha256": "0cacd0e262764f447658a2dbdb885198eb178e8679d7261fd6d9629ec8c08b5f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/tr.pak": {
+      "size": 558475,
+      "sha256": "62911c794ee1b89b41061043c8dbee9f0850b57ff92b96c0540c563c65d62871"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/uk.pak": {
+      "size": 951200,
+      "sha256": "6cf3a7f1abe821238799d823d0c46bede7fa5b987d59f676502f3bf7701bbfe8"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/ur.pak": {
+      "size": 830717,
+      "sha256": "579e3b7623dc682060b14eb010d663403ee3c13bf71772f9edbf5c07d05677e1"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/vi.pak": {
+      "size": 660811,
+      "sha256": "0b2e2933860bc735a8ba7b7b5a3f8363adacae878f07d5b3a4bf8726706a565e"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/zh-CN.pak": {
+      "size": 477337,
+      "sha256": "339fc590569b686d710317f46aa22502b022659dc8090d69548ac44383494ab0"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/locales/zh-TW.pak": {
+      "size": 474538,
+      "sha256": "a8b841eb21bbf2287bb5bdd636aa291db21cfe6b9e2fb039d82dc7638ecac8be"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/resources.pak": {
+      "size": 8470093,
+      "sha256": "8aa4a2089231bd8262e988b10d2cb0428a38fa3c6c28f90d00c4437e83cc6d3e"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/snapshot_blob.bin": {
+      "size": 314802,
+      "sha256": "93143e7f3925d372e3055c1ff9deb564400404c560d03c8e4d13fff067332f49"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/swiftshader/libEGL.dll": {
+      "size": 437424,
+      "sha256": "4a12130142a4f0d0018bb1a743c0ed141943e506ed540291af86207673578623"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/swiftshader/libGLESv2.dll": {
+      "size": 2736816,
+      "sha256": "55e107af40f105d1b17843509a6400fe6e9af30302fe734454911a599dfa4306"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewChromium/v8_context_snapshot.bin": {
+      "size": 668253,
+      "sha256": "5c338e3e42c376f230e9764cbd97e1b4befae13d82ebd04318b5e42c94ff278f"
+    },
+    "Lumin_Data/Plugins/x86_64/VuplexWebViewWindows.dll": {
+      "size": 407216,
+      "sha256": "feda7991584e333319e9b3f76942ef427a9bceb5ca91cccd7ec31dd0c9eadd5a"
+    },
+    "Lumin_Data/Plugins/x86_64/XeSSRenderingPlugin.dll": {
+      "size": 269488,
+      "sha256": "670d7fef38b2e318ae9c259091260da25bcb5bb351dde35032a76033d0505a12"
+    },
+    "Lumin_Data/Plugins/x86_64/amd_fidelityfx_loader_dx12.dll": {
+      "size": 27824,
+      "sha256": "24c28c0470dcc329d34d0ef4cef6d66194b166b8b8a0870f5854764db85974ce"
+    },
+    "Lumin_Data/Plugins/x86_64/amd_fidelityfx_upscaler_dx12.dll": {
+      "size": 28763312,
+      "sha256": "c138642f6083a013df1c90e9897f32ae5d576a87582fd327c11df0eb55d11c17"
+    },
+    "Lumin_Data/Plugins/x86_64/fmodstudio.dll": {
+      "size": 3265200,
+      "sha256": "68d701790b588dee02192ecabd24c79f60f4792587e67c17455ea6c16519442b"
+    },
+    "Lumin_Data/Plugins/x86_64/lib_burst_generated.dll": {
+      "size": 853680,
+      "sha256": "d6f5a113ae4ca4fcd2c93e02858a8cbbeb7bb0ef8d82067458568ff6f8611053"
+    },
+    "Lumin_Data/Plugins/x86_64/libxess.dll": {
+      "size": 77797040,
+      "sha256": "4035120b36a11db260d87b56ed993ff62ae2d80752ecb1eddfde1039a83cf332"
+    },
+    "Lumin_Data/Plugins/x86_64/libxess_dx11.dll": {
+      "size": 157360,
+      "sha256": "a7a98bae6ab9b919de2a04a5039048d0162527397d42718b0b14f0595490abd7"
+    },
+    "Lumin_Data/Plugins/x86_64/nvngx_dlss.dll": {
+      "size": 58977904,
+      "sha256": "be6e434a94ca32499515eb62ca0e6c274526055d568d0426e4c652dcdfb6ee6e"
+    },
+    "Lumin_Data/Plugins/x86_64/rail_api64.dll": {
+      "size": 18143408,
+      "sha256": "cc48f02445cec0ff5d67895a72f1b6f5ca56d2d04b27b8e273b7c195275fb1c1"
+    },
+    "Lumin_Data/Plugins/x86_64/resonanceaudio.dll": {
+      "size": 829616,
+      "sha256": "90935a185e627345c164b153c61075345f51bd7f4fa0a994e680f8b9339d3f5b"
+    },
+    "Lumin_Data/Plugins/x86_64/tapsdkcore.dll": {
+      "size": 3344048,
+      "sha256": "029cc7a12b05542070ed083a72bfc146231b6d989442096bf1b72fd9dfb9cea4"
+    },
+    "Lumin_Data/Plugins/x86_64/taptap_api.dll": {
+      "size": 158896,
+      "sha256": "f806e09bfc1225a5db98facbf54900211192e0b01444f2a525e9dff2b1b12029"
+    },
+    "Lumin_Data/Resources/unity default resources": {
+      "size": 1564240,
+      "sha256": "a11e3e24520676183b3750564b4d9f5a90e8f41fd3523cbfb0c49f3989453da2"
+    },
+    "Lumin_Data/RuntimeInitializeOnLoads.json": {
+      "size": 8257,
+      "sha256": "f418fa4cafbe8548a2f7ceb1ca82994eaa2c4860fad8908d49662c63d49de5dc"
+    },
+    "Lumin_Data/ScriptingAssemblies.json": {
+      "size": 6548,
+      "sha256": "b51d9cb8b9be98ad452323609066886ea83f45f28180bc0abe403a9a0ce8ccff"
+    },
+    "Lumin_Data/StreamingAssets/Crashsight_Enabled": {
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "Lumin_Data/StreamingAssets/app_config.json": {
+      "size": 668,
+      "sha256": "f47adb8f4cb09677fbf365924b262a0d796daed82fc290b3890d19ba61458adc"
+    },
+    "Lumin_Data/StreamingAssets/app_info": {
+      "size": 256,
+      "sha256": "d8018626d27340428c0984b4945a59be5c2521112b03d19ae28a5f9d19a3eeff"
+    },
+    "Lumin_Data/StreamingAssets/internal_version": {
+      "size": 25,
+      "sha256": "b8e224c9aee8385351629bf7963bd9db031663de87ff622682b25c2c347b9605"
+    },
+    "Lumin_Data/app.info": {
+      "size": 15,
+      "sha256": "10ca63d34ee1b338c75924281241733d5b2be201105ffd3c3ecdcae55136d721"
+    },
+    "Lumin_Data/boot.config": {
+      "size": 154,
+      "sha256": "9c8b56f53e84284d0f0466f1f02726a5361a23b4a4b7ec32380db4e94e013446"
+    },
+    "Lumin_Data/data.unity3d": {
+      "size": 156316949,
+      "sha256": "97235642ba48621dfbfe1f376cad4263b6a20ce3456e7d0c46470af694226e58"
+    },
+    "Lumin_Data/il2cpp_data/Metadata/global-metadata.dat": {
+      "size": 19081432,
+      "sha256": "4595c5c283ebe724cf6e99d812694831baa69e91127efa0d899d16bd699a0ce6"
+    },
+    "Lumin_Data/il2cpp_data/Resources/System.Data.dll-resources.dat": {
+      "size": 93718,
+      "sha256": "98a7950ec6de3242c2e190dfa630188dfa32511a125542b94baa952d1c757d49"
+    },
+    "Lumin_Data/il2cpp_data/Resources/System.Drawing.dll-resources.dat": {
+      "size": 25453,
+      "sha256": "7c33aa707bc3fdc83991b81a97d6fc622b140762a767300f08f616c2c0a91255"
+    },
+    "Lumin_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat": {
+      "size": 337563,
+      "sha256": "c5baa176a5b72cd545266340e42102d393a5e43d38c95796bc828918bb95277f"
+    },
+    "Lumin_Data/resources.resource": {
+      "size": 96193280,
+      "sha256": "c5a1b41c694fefc1c07603f10aae848ff013781b6094a45bb193d5ffc3093d9f"
+    },
+    "PCGameSDK.dll": {
+      "size": 5996720,
+      "sha256": "579214aaec0a16c2fad4cdcd2dcb4f6a3c2d379c630184e147254af11fdc4677"
+    },
+    "UnityCrashHandler64.exe": {
+      "size": 1187504,
+      "sha256": "06a48f29649453ae09d62db666aefa96fdeb5d32a46a50e02358be8ad91a3d97"
+    },
+    "UnityPlayer.dll": {
+      "size": 19218096,
+      "sha256": "7b5f25de64880af9375608cc93d04d04710679786af54c718d96d4aa0c193e11"
+    },
+    "baselib.dll": {
+      "size": 422064,
+      "sha256": "bf1ea2a8e718578ed06fade3296bcab9efc77bdfe8b2349ed01df4a0b3df90f1"
+    }
+  }
+}

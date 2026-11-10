@@ -1,0 +1,137 @@
+{
+  "lzma_start": 235041,
+  "lzma_end": 88717082,
+  "uncompressed_size": 97098004,
+  "files": {
+    "ControlzEx.dll": {
+      "offset": 13651334,
+      "size": 256176,
+      "sha256": "460a8726db11cf885a275a0d0992501cd4a08f2676e20cec4ca8885df0dcbc1b"
+    },
+    "de/MahApps.Metro.resources.dll": {
+      "offset": 13907514,
+      "size": 10752,
+      "sha256": "1e925cc4fb9deb450e7c6414bdc59d4e2afbec39a0607b8ac8f9795f2e4a312a"
+    },
+    "DeviceId.dll": {
+      "offset": 13918270,
+      "size": 36528,
+      "sha256": "bc19f317d6067c1f8ed2901dcc71e72d1289b1ad4b08d7e8fb45852201fcff33"
+    },
+    "DeviceId.Windows.dll": {
+      "offset": 13954802,
+      "size": 21680,
+      "sha256": "5c67fb14d27f60c8bbb6be89b3ba3780fa8c5c4a6a015e1356718a407a2a2c12"
+    },
+    "DeviceId.Windows.Wmi.dll": {
+      "offset": 13976486,
+      "size": 23216,
+      "sha256": "166e05d5c6d1d62b518e202aaef2aca7499865ffe4c0c0d90a4f1e2b19c8ab88"
+    },
+    "Hardcodet.NotifyIcon.Wpf.dll": {
+      "offset": 72466550,
+      "size": 136880,
+      "sha256": "3d88bf883450fb60868bc64883bc505014f49d7e2c9e1c9f44f709ed38cd23d1"
+    },
+    "ICSharpCode.SharpZipLib.dll": {
+      "offset": 72603434,
+      "size": 271024,
+      "sha256": "a200f52eafa0ca8158730f59d79c3daba138c7c025b6037ad2aff2e6c31f3d4f"
+    },
+    "Lumin.Launcher.deps.json": {
+      "offset": 72874462,
+      "size": 12587,
+      "sha256": "cff59724f6b2d48493d5ab74421dd301bb25e4b673e0dcdd910552104a98717d"
+    },
+    "Lumin.Launcher.dll": {
+      "offset": 72887053,
+      "size": 3752112,
+      "sha256": "95825e6639e166f16e9b9dc9c07f3620e29f0adfee57033be125442543ce6c73"
+    },
+    "Lumin.Launcher.exe": {
+      "offset": 76639169,
+      "size": 363696,
+      "sha256": "343e8918b2e1947a6abf44b1011e96ee82ea3d7f3265bd180c2736276f62126d"
+    },
+    "Lumin.Launcher.runtimeconfig.json": {
+      "offset": 77002869,
+      "size": 515,
+      "sha256": "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd"
+    },
+    "lumin-installsvc.exe": {
+      "offset": 77003388,
+      "size": 570032,
+      "sha256": "653d8c2d08709540f2b98e3f2476fbfdc5597bdd7d11dd1096410aaa740f5b74"
+    },
+    "lumin-launcher-upd.exe": {
+      "offset": 77573424,
+      "size": 590000,
+      "sha256": "03f70b9e917ac65215b7c33f0dd1af9117fa5008a17fdb232b4c92556f31dad3"
+    },
+    "MahApps.Metro.dll": {
+      "offset": 78163428,
+      "size": 3573424,
+      "sha256": "9065773ebc87261824fbec43f7612a0055bd4d83669b499db51e67bf99f70a62"
+    },
+    "McMaster.Extensions.CommandLineUtils.dll": {
+      "offset": 81736856,
+      "size": 165040,
+      "sha256": "1e1a5591a5b9fce98e0ddee4237ebf2c89d220514a6fdabfac5197118b4c96c6"
+    },
+    "Microsoft.Web.WebView2.Core.dll": {
+      "offset": 81901900,
+      "size": 632432,
+      "sha256": "7c269af2b6ff690bcb65d7812db82843112b9bc0dcdf5b304e99255996a8c1b4"
+    },
+    "Microsoft.Web.WebView2.WinForms.dll": {
+      "offset": 82534336,
+      "size": 39512,
+      "sha256": "1fcde4a721d8a59293d3fd1e8d476671c8171e6a44b87eebe33bcfb5bd5e9e55"
+    },
+    "Microsoft.Web.WebView2.Wpf.dll": {
+      "offset": 82573852,
+      "size": 82536,
+      "sha256": "cff4bc900b173d7a35f21f4c7656fa34f089df67b0c8f04e7242122e79644be5"
+    },
+    "Microsoft.Xaml.Behaviors.dll": {
+      "offset": 82656392,
+      "size": 145280,
+      "sha256": "71e00e2b9ca3088132fc4d54a2076cb07127fe02a5fbc10df8d61cde55dfdbef"
+    },
+    "Newtonsoft.Json.dll": {
+      "offset": 82801676,
+      "size": 713392,
+      "sha256": "c3689f726505cec2d654017d28e9a446807f999c19ba0140b9c0d76af4c7e5d6"
+    },
+    "RestSharp.dll": {
+      "offset": 83515072,
+      "size": 231600,
+      "sha256": "71d562aff4bcbc5934267761336e05339e26a853a806e539cd5ff46ee1d29a62"
+    },
+    "WebView2Loader.dll": {
+      "offset": 83746676,
+      "size": 159320,
+      "sha256": "1f278b330448cefccfbc2691fae525b9dfd47e4768f1286857e45ea0df07ff3f"
+    },
+    "runtimes/win-x64/native/WebView2Loader.dll": {
+      "offset": 83746676,
+      "size": 159320,
+      "sha256": "1f278b330448cefccfbc2691fae525b9dfd47e4768f1286857e45ea0df07ff3f"
+    },
+    "System.CodeDom.dll": {
+      "offset": 83906000,
+      "size": 183576,
+      "sha256": "4de88b830e6dea831e24eca66e2945536d3f5732bf49cdda46781053d983e97e"
+    },
+    "System.Management.dll": {
+      "offset": 84089580,
+      "size": 312624,
+      "sha256": "3aa716e4af43acdd4a5dd05e9458d1eedccc880ba8c242cf6e77f4918de62fb2"
+    },
+    "System.ValueTuple.dll": {
+      "offset": 84402208,
+      "size": 25232,
+      "sha256": "e905d102585b22c6df04f219af5cbdbfa7bc165979e9788b62df6dcc165e10f4"
+    }
+  }
+}

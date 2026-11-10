@@ -1,0 +1,14 @@
+绿梦切服 1.0.0　Windows x64
+
+1. 将整个 ZIP 解压，打开 LuminChannelSwitch 文件夹，双击 LuminChannelSwitch.exe。
+2. 点「选择目录」，选择已安装的绿梦 PC 官服目录。本版支持游戏 1.0.2、公测构建 12450。
+3. 点「准备 B 服组件」。首次需要联网，组件来自游戏发行方。游戏启动器需要 .NET 8 桌面运行时。
+4. 关闭游戏和托盘中的游戏启动器，点「切换到 B 服」，完成后点「启动当前渠道」。
+5. 回官服时，关闭游戏及启动器，再点「切换到官服」。
+
+切换中断时，重新打开本工具，点「恢复上次操作」。
+遇到游戏本体更新，建议先切回原官服，再用原启动器更新。新游戏构建需要相应版本的切服工具。
+后续更新请点工具里的「检查更新」。下载并校验后，退出旧版，解压新版并运行。
+
+最新正式版：https://github.com/Stephendafen/LuminChannelSwitch/releases/latest
+项目主页：https://github.com/Stephendafen/LuminChannelSwitch
